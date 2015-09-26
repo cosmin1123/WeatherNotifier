@@ -1,0 +1,9 @@
+{
+	"name": "WeatherNotifier",
+	"version": "0.0.0",
+	"main" : "main.js",
+	"dependencies": {
+		"requestify": "~0.1.17",
+		"nodemailer": "~0.7"
+	}
+}
